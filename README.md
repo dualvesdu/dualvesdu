@@ -1,4 +1,4 @@
-## Olá eu sou Eduardo Alves, Programador de códigos tradicionais, Low-Code e No-Code
+## Olá eu sou Eduardo Alves, Programador de Low-Code e No-Code
 <div align="center">
   <a href="https://github.com/dualvesdu">
   <img height="120em" src="https://github-readme-stats.vercel.app/api?username=dualvesdu&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
